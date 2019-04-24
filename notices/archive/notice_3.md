@@ -1,0 +1,1 @@
+Please take a moment to back up your seed phrase (mnemonic phrase) again. The best way we can recommend are writing down the phrases and storing them in a safe place, and downloading the phrase into a secure USB drive that can be stored in a safe location. 
